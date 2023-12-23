@@ -59,8 +59,10 @@ def max_marks(list1):
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
 ![Screenshot 2023-11-26 145110](https://github.com/Vikaash19/FindMaximum/assets/148514589/aae40c2a-8196-4d95-90ed-4c7cb711cf34)
+
 ii)	# To find the maximum marks using the list method max().
 ![Screenshot 2023-11-26 145236](https://github.com/Vikaash19/FindMaximum/assets/148514589/546c3221-57ed-4458-96b9-e77c0f4ade45)
+
 iii) # To find the maximum marks without using builtin functions.
 ![Screenshot 2023-11-26 145319](https://github.com/Vikaash19/FindMaximum/assets/148514589/466114d7-38e5-46b5-bd00-af0cd5643522)
 
